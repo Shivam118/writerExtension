@@ -2,11 +2,13 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Getting Started
 
-First, run the development server:
+First, Install the necessary Modules, using:
+
+`npm install`
+
+Then, run the development server:
 
 ```bash
-pnpm dev
-# or
 npm run dev
 ```
 
@@ -16,13 +18,15 @@ You can start editing the popup by modifying `popup.tsx`. It should auto-update 
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/)
 
+## Walkthrough
+
+[](https://github.com/Shivam118/writerExtension/blob/master/ChatGPTWriter%20Extension.mkv)
+
 ## Making production build
 
 Run the following:
 
 ```bash
-pnpm build
-# or
 npm run build
 ```
 
