@@ -20,7 +20,7 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/)
 
 ## Walkthrough
 
-[](https://github.com/Shivam118/writerExtension/blob/master/ChatGPTWriter%20Extension.mkv)
+https://github.com/Shivam118/writerExtension/assets/56683300/35ce1321-c8ee-43c4-b83f-a0786cd78dc4
 
 ## Making production build
 
